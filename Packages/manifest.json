@@ -1,6 +1,16 @@
 {
   "dependencies": {
     "com.unity.render-pipelines.universal": "13.1.8",
-    "com.unity.surface-gradient-bump-mapping": "0.1.0"
-  }
+    "com.unity.surface-gradient-bump-mapping": "0.1.0",
+    "jp.keijiro.danish-statues": "1.0.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ]
 }
