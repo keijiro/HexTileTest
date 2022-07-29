@@ -70,6 +70,6 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Rotation: 0
-    - _Scale: 11
+    - _Scale: 16
     m_Colors: []
   m_BuildTextureStacks: []
