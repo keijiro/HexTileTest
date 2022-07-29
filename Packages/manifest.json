@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "13.1.8",
+    "com.unity.surface-gradient-bump-mapping": "0.1.0"
+  }
+}
